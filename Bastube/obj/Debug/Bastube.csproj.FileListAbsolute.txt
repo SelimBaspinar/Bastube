@@ -1,0 +1,110 @@
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\Bastube.exe.config
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\Bastube.exe
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\Bastube.pdb
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.csprojAssemblyReference.cache
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.Bastube.resources
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.LoadingScreen.resources
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.Properties.Resources.resources
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.csproj.GenerateResource.cache
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.exe
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.pdb
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.Youtube.resources
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.csproj.CopyComplete
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\AngleSharp.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\CliWrap.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\libvideo.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Buffers.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Memory.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Text.Json.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.ValueTuple.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\AngleSharp.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\CliWrap.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Buffers.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Memory.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Text.Json.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\System.ValueTuple.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.İnstagram.resources
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\Interop.WMPLib.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Interop.WMPLib.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.csproj.ResolveComReference.cache
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.Resim.resources
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\NReco.VideoConverter.dll
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\NReco.VideoConverter.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.csproj.CoreCompileInputs.cache
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\Bastube.exe.manifest
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\bin\Debug\Bastube.application
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.TrustInfo.xml
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.exe.manifest
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.application
+C:\Users\Selim Başpınar\source\repos\Bastube\Bastube\obj\Debug\Bastube.Facebook.resources
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.pdb
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Interop.WMPLib.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\AxInterop.WMPLib.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.csproj.ResolveComReference.cache
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.Bastube.resources
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.Facebook.resources
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.LoadingScreen.resources
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.Properties.Resources.resources
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.Resim.resources
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.Youtube.resources
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.İnstagram.resources
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.csproj.GenerateResource.cache
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.exe
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Bastube.exe.config
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Bastube.exe
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Bastube.pdb
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\libvideo.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\NiL.JS.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\NReco.VideoConverter.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\System.Buffers.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\System.Memory.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\NReco.VideoConverter.xml
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Interop.WMPLib.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\AxInterop.WMPLib.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.csproj.CopyComplete
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Google.Apis.Auth.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Google.Apis.Core.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Google.Apis.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Google.Apis.pdb
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Google.Apis.xml
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Google.Apis.Auth.pdb
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Google.Apis.Auth.xml
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Google.Apis.Core.pdb
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Google.Apis.Core.xml
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\System.Buffers.xml
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\System.Memory.xml
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Bastube.exe.manifest
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\bin\Debug\Bastube.application
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.TrustInfo.xml
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.exe.manifest
+D:\Programming\Visual Studio Projeleri\repos\Bastube\Bastube\obj\Debug\Bastube.application

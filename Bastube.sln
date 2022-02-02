@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bastube", "Bastube\Bastube.csproj", "{AB0B3444-86F1-4E72-93B7-DD4152E4D773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0B3444-86F1-4E72-93B7-DD4152E4D773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0B3444-86F1-4E72-93B7-DD4152E4D773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0B3444-86F1-4E72-93B7-DD4152E4D773}.Debug|x64.ActiveCfg = Debug|x64
+		{AB0B3444-86F1-4E72-93B7-DD4152E4D773}.Debug|x64.Build.0 = Debug|x64
+		{AB0B3444-86F1-4E72-93B7-DD4152E4D773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0B3444-86F1-4E72-93B7-DD4152E4D773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0B3444-86F1-4E72-93B7-DD4152E4D773}.Release|x64.ActiveCfg = Release|x64
+		{AB0B3444-86F1-4E72-93B7-DD4152E4D773}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFCAF9D1-4AA7-4B54-9E3B-0A08946B35EF}
+	EndGlobalSection
+EndGlobal
